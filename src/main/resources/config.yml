@@ -1,0 +1,10 @@
+# CosmeticsPlus sozlamalari
+
+# Zarrachalar har necha tick (20 tick = 1 soniya) da yangilanadi
+particle-update-interval: 5
+
+# Zarracha soni har bir chiqarishda
+particle-count: 3
+
+# Faqat harakatlanganda zarracha chiqarilsinmi
+particles-only-when-moving: false
